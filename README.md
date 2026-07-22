@@ -1,25 +1,25 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Abhishek%20Shukla&fontSize=55&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20Python%20Developer%20%7C%20LLM%20%26%20RAG%20Enthusiast&descAlignY=58&descSize=18"/>
+<div align="center">
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/abhishek-shukla-980a2b252" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:abhishrkshukla0852@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://leetcode.com/u/abhishekshukla7555" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=abhishekshukla7555&style=for-the-badge&color=blueviolet" alt="profile views"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:6a11cb,100:2575fc&height=200&section=header&text=Abhishek%20Shukla&fontSize=50&fontColor=fff&fontAlignY=45&animation=fadeIn&desc=AI%20Engineer%20%7C%20Python%20Developer%20%7C%20LLM%20%26%20RAG%20Enthusiast&descAlignY=65&descSize=16"/>
+
+<p>
+  <img src="https://img.shields.io/badge/MCA%20Student-2575fc?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/RAG%20%7C%20LangChain-A970FF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/200%2B%20LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  <img src="https://komarev.com/ghpvc/?username=abhishekshukla7555&style=for-the-badge&color=2575fc" alt="profile views"/>
 </p>
 
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=A970FF&center=true&vCenter=true&width=650&lines=Building+RAG+Pipelines+%26+AI+Chatbots;LangChain+%7C+LangGraph+%7C+FastAPI+%7C+FAISS;200%2B+Problems+Solved+on+LeetCode;Turning+Ideas+into+Deployed+AI+Products" alt="Typing SVG" />
-  </a>
-</p>
+<a href="https://www.linkedin.com/in/abhishek-shukla-980a2b252" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:abhishrkshukla0852@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
+<a href="https://leetcode.com/u/abhishekshukla7555" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black"/></a>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3"/>
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A970FF&center=true&vCenter=true&width=650&lines=Building+RAG+Pipelines+%26+AI+Chatbots;LangChain+%7C+LangGraph+%7C+FastAPI+%7C+FAISS;Turning+Ideas+into+Deployed+AI+Products"/>
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:6a11cb,100:2575fc&height=3"/>
 
 ### 🧠 About Me
 
@@ -39,9 +39,16 @@ class AbhishekShukla:
 - 🔭 Currently building **RAG-based AI applications** with LangChain & vector databases
 - 🌱 Deepening my skills in **LangGraph & multi-agent systems**
 - 💬 Ask me about **RAG, Prompt Engineering, FastAPI backends**
-- ⚡ Fun fact: I turn PDFs, audio & video into searchable AI knowledge bases
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:6a11cb,100:2575fc&height=3"/>
+
+### 🏆 DSA & Problem Solving
+
+<div align="center">
+<img src="https://leetcard.jacoblin.cool/abhishekshukla7555?theme=dark&font=Baloo%202&ext=heatmap" width="100%"/>
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:6a11cb,100:2575fc&height=3"/>
 
 ### 🚀 Featured Projects
 
@@ -74,23 +81,42 @@ class AbhishekShukla:
 </tr>
 </table>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:6a11cb,100:2575fc&height=3"/>
 
-### 🧰 Tech Stack
+### 🧰 Technologies & Tools
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,js,ts,fastapi,html,css,bootstrap,angular,git,github,vscode,linux&perline=8" />
-</p>
+<table>
+<tr>
+<td><strong>AI / LLM</strong></td>
+<td>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square"/>
+<img src="https://img.shields.io/badge/FAISS-005571?style=flat-square"/>
+<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
+</td>
+</tr>
+<tr>
+<td><strong>Backend</strong></td>
+<td>
+<img src="https://skillicons.dev/icons?i=fastapi,python,cpp,c"/>
+</td>
+</tr>
+<tr>
+<td><strong>Frontend</strong></td>
+<td>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,angular"/>
+</td>
+</tr>
+<tr>
+<td><strong>Tools & Platforms</strong></td>
+<td>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux"/>
+</td>
+</tr>
+</table>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/FAISS-005571?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
-</p>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:6a11cb,100:2575fc&height=3"/>
 
 ### 📊 GitHub Stats
 
@@ -107,6 +133,4 @@ class AbhishekShukla:
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhishekshukla7555&theme=radical&hide_border=true"/>
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3"/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=100&section=footer"/>
