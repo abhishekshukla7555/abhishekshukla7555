@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="banner.gif"/>
+<img width="100%" src="assets/abhishek_banner.svg"/>
 
 <p>
   <img src="https://img.shields.io/badge/MCA%20Student-2575fc?style=for-the-badge"/>
