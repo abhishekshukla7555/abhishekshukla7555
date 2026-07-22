@@ -1,0 +1,91 @@
+<svg width="900" height="260" viewBox="0 0 900 260" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#05060a"/>
+      <stop offset="100%" stop-color="#0d1117"/>
+    </linearGradient>
+    <linearGradient id="textGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00f0ff">
+        <animate attributeName="stop-color" values="#00f0ff;#a855f7;#ec4899;#00f0ff" dur="6s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="50%" stop-color="#a855f7">
+        <animate attributeName="stop-color" values="#a855f7;#ec4899;#00f0ff;#a855f7" dur="6s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" stop-color="#ec4899">
+        <animate attributeName="stop-color" values="#ec4899;#00f0ff;#a855f7;#ec4899" dur="6s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse">
+      <path d="M 36 0 L 0 0 0 36" fill="none" stroke="#1f2937" stroke-width="0.6"/>
+    </pattern>
+    <linearGradient id="fade" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#05060a" stop-opacity="0"/>
+      <stop offset="100%" stop-color="#05060a" stop-opacity="0.9"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="900" height="260" fill="url(#bg)"/>
+  <rect width="900" height="260" fill="url(#grid)"/>
+  <rect width="900" height="260" fill="url(#fade)"/>
+
+  <g opacity="0.55">
+    <circle cx="70" cy="220" r="2.2" fill="#00f0ff">
+      <animate attributeName="cy" values="220;20;220" dur="9s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;0.8;0" dur="9s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="180" cy="240" r="1.6" fill="#a855f7">
+      <animate attributeName="cy" values="240;10;240" dur="7s" begin="1s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;0.7;0" dur="7s" begin="1s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="760" cy="230" r="2" fill="#ec4899">
+      <animate attributeName="cy" values="230;15;230" dur="8s" begin="2s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;0.8;0" dur="8s" begin="2s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="850" cy="220" r="1.8" fill="#00f0ff">
+      <animate attributeName="cy" values="220;30;220" dur="10s" begin="0.5s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;0.6;0" dur="10s" begin="0.5s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="450" cy="250" r="1.5" fill="#a855f7">
+      <animate attributeName="cy" values="250;20;250" dur="11s" begin="3s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;0.6;0" dur="11s" begin="3s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+
+  <rect x="0" y="0" width="900" height="260" fill="none" stroke="#00f0ff" stroke-width="1" opacity="0.25"/>
+  <rect x="6" y="6" width="888" height="248" fill="none" stroke="#a855f7" stroke-width="0.6" opacity="0.2"/>
+
+  <line x1="0" y1="0" x2="900" y2="0" stroke="#00f0ff" stroke-width="3" opacity="0.8">
+    <animate attributeName="y1" values="0;260;0" dur="5s" repeatCount="indefinite"/>
+    <animate attributeName="y2" values="0;260;0" dur="5s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;0.6;0" dur="5s" repeatCount="indefinite"/>
+  </line>
+
+  <text x="450" y="118" text-anchor="middle" font-family="Consolas, 'Courier New', monospace" font-size="52" font-weight="700" fill="url(#textGrad)" filter="url(#glow)" letter-spacing="4">
+    ABHISHEK SHUKLA
+  </text>
+
+  <text x="450" y="158" text-anchor="middle" font-family="Consolas, 'Courier New', monospace" font-size="18" fill="#8b949e" letter-spacing="2">
+    &lt; AI Engineer | LLM &amp; RAG Enthusiast /&gt;
+  </text>
+
+  <g font-family="Consolas, 'Courier New', monospace" font-size="13" fill="#00f0ff" opacity="0.85">
+    <rect x="330" y="180" width="90" height="26" rx="4" fill="none" stroke="#00f0ff" stroke-width="0.8"/>
+    <text x="375" y="197" text-anchor="middle">LangChain</text>
+    <rect x="428" y="180" width="60" height="26" rx="4" fill="none" stroke="#a855f7" stroke-width="0.8"/>
+    <text x="458" y="197" text-anchor="middle" fill="#a855f7">RAG</text>
+    <rect x="496" y="180" width="74" height="26" rx="4" fill="none" stroke="#ec4899" stroke-width="0.8"/>
+    <text x="533" y="197" text-anchor="middle" fill="#ec4899">FastAPI</text>
+  </g>
+
+  <text x="450" y="235" text-anchor="middle" font-family="Consolas, 'Courier New', monospace" font-size="12" fill="#4b5563">
+    <tspan>_</tspan>
+    <animate attributeName="opacity" values="1;0;1" dur="1.2s" repeatCount="indefinite"/>
+  </text>
+</svg>
