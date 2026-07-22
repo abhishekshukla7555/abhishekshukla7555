@@ -19,7 +19,7 @@
   </a>
 </p>
 
-<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3"/>
 
 ### 🧠 About Me
 
@@ -41,7 +41,7 @@ class AbhishekShukla:
 - 💬 Ask me about **RAG, Prompt Engineering, FastAPI backends**
 - ⚡ Fun fact: I turn PDFs, audio & video into searchable AI knowledge bases
 
-<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3"/>
 
 ### 🚀 Featured Projects
 
@@ -74,7 +74,7 @@ class AbhishekShukla:
 </tr>
 </table>
 
-<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3"/>
 
 ### 🧰 Tech Stack
 
@@ -90,7 +90,7 @@ class AbhishekShukla:
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
 </p>
 
-<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3"/>
 
 ### 📊 GitHub Stats
 
@@ -100,21 +100,13 @@ class AbhishekShukla:
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhishekshukla7555&theme=radical&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com/?user=abhishekshukla7555&theme=radical&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhishekshukla7555&theme=redical&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhishekshukla7555&theme=radical&hide_border=true"/>
 </p>
 
-<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif">
-
-### 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/abhishekshukla7555/abhishekshukla7555/output/github-contribution-grid-snake.svg" />
-</p>
-
-> ⚙️ **Note:** Ye snake animation apne aap generate hoti hai — is README ke neeche di gayi GitHub Action file add karni hogi (steps neeche diye hain).
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3"/>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
