@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:6a11cb,100:2575fc&height=200&section=header&text=Abhishek%20Shukla&fontSize=50&fontColor=fff&fontAlignY=45&animation=fadeIn&desc=AI%20Engineer%20%7C%20Python%20Developer%20%7C%20LLM%20%26%20RAG%20Enthusiast&descAlignY=65&descSize=16"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=220&section=header&text=Abhishek%20Shukla&fontSize=50&fontColor=fff&fontAlignY=38&animation=fadeIn&desc=AI%20Engineer%20%7C%20Python%20Developer%20%7C%20LLM%20%26%20RAG%20Enthusiast&descAlignY=58&descSize=16"/>
 
 <p>
   <img src="https://img.shields.io/badge/MCA%20Student-2575fc?style=for-the-badge"/>
@@ -132,5 +132,13 @@ class AbhishekShukla:
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhishekshukla7555&theme=radical&hide_border=true"/>
 </p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:6a11cb,100:2575fc&height=3"/>
+
+### 🐍 Contribution Snake
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/abhishekshukla7555/abhishekshukla7555/output/github-contribution-grid-snake.svg"/>
+</div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=100&section=footer"/>
