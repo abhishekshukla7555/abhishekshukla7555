@@ -23,18 +23,6 @@
 
 ### 🧠 About Me
 
-```python
-class AbhishekShukla:
-    def __init__(self):
-        self.role = "AI Engineer | Python Developer"
-        self.education = "MCA @ Accurate Institute of Management and Technology"
-        self.focus = ["RAG Pipelines", "LLM Applications", "AI Chatbots", "Multi-modal Systems"]
-        self.leetcode_solved = "200+"
-        self.location = "Noida, India"
-
-    def currently_building(self):
-        return "AI Meeting Assistant — Multi-modal RAG App 🎙️"
-```
 
 - 🔭 Currently building **RAG-based AI applications** with LangChain & vector databases
 - 🌱 Deepening my skills in **LangGraph & multi-agent systems**
