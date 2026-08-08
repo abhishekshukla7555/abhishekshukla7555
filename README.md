@@ -56,15 +56,17 @@
 <a href="https://ai-meeting-assistant-qradh5exk5lyxat4y4tvls.streamlit.app/">🔗 Live Demo</a>
 </td>
 <td width="50%" valign="top">
-<h4>💬 AbhiChat — PDF Chatbot</h4>
-<p><em>RAG-based AI Chatbot</em></p>
-<p>ChatGPT-style bot that lets users upload a PDF and ask questions in natural language. Full RAG pipeline: ingestion → chunking → embeddings → semantic retrieval, served via FastAPI.</p>
+<h4>🔍 Multi-Agent AI Research Assistant</h4>
+<p><em>Autonomous Research Report Generator — Deployed</em></p>
+<p>5 specialized agents (Planner, Researcher, Aggregator, Writer, Critic) collaborate via a LangGraph stateful graph to generate source-grounded research reports. Parallel research dispatch using <code>Send()</code> API, with a self-correcting critic loop for quality control.</p>
 <p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
-<img src="https://img.shields.io/badge/Vector_DB-005571?style=flat-square"/>
+<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square"/>
+<img src="https://img.shields.io/badge/OpenRouter-Llama_3.3_70B-005571?style=flat-square"/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
 </p>
+
+<a href="https://multi-agent-research-assistant-99jjkphlm8wcxeh5vzd89r.streamlit.app/">🔗 Live Demo</a>
 </td>
 </tr>
 </table>
